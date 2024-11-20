@@ -1,0 +1,3 @@
+# common laravel ignore files, in src directory
+/mysql
+/node_modules
